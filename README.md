@@ -1,4 +1,4 @@
-[![MasterHead](https://vtricks.in/assets/images/all-images/second-img.jpeg)](www.iamsobahan.com)
+[![MasterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)](www.iamsobahan.com)
 <h1 align="left">Hi 👋, I'm Md Sobahan Mia</h1>
 <h3 align="left">I am a skilled Data Analyst and Business Intelligence (BI) Analyst with expertise in transforming raw data into actionable insights that support strategic decision-making. Proficient in SQL, database management, and advanced analytics tools, I deliver reliable, data-driven recommendations to enhance efficiency and planning. My experience includes creating interactive dashboards in Power BI and designing seamless web application integrations using Django and Django Rest Framework. With a strong analytical mindset and business acumen, I excel at identifying trends, optimizing processes, and defining KPIs. I am committed to presenting complex data in visually compelling ways to drive collaboration and sustainable growth.</h3>
 

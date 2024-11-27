@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQEZqYVYWh5NWw/article-cover_image-shrink_720_1280/0/1682060285558?e=2147483647&v=beta&t=r2clYRrThngfjntFc3vwFNfDCY7BIFq6oo-jd9fKqRA)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Sobahan Mia</h1>
 <h3 align="left">I am a skilled Data Analyst and Business Intelligence (BI) Analyst with expertise in transforming raw data into actionable insights that support strategic decision-making. Proficient in SQL, database management, and advanced analytics tools, I deliver reliable, data-driven recommendations to enhance efficiency and planning. My experience includes creating interactive dashboards in Power BI and designing seamless web application integrations using Django and Django Rest Framework. With a strong analytical mindset and business acumen, I excel at identifying trends, optimizing processes, and defining KPIs. I am committed to presenting complex data in visually compelling ways to drive collaboration and sustainable growth.</h3>
 

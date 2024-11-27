@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Sobahan Mia</h1>
+<h3 align="center">As a dedicated data analyst and business intelligence (BI) analyst, I specialize in transforming raw data into meaningful insights that drive decision-making. With expertise in data collection, analysis, and visualization, I excel at identifying trends, patterns, and actionable insights that align with business goals. My deep understanding of database management, SQL, and advanced data analytics tools enables me to provide reliable and timely data-driven recommendations to enhance operational efficiency and strategic planning. In addition, as a Power BI analyst and business analyst, I am adept at creating interactive dashboards and reports that facilitate data interpretation for stakeholders. I possess a strong ability to communicate complex data in a visually appealing and easy-to-understand manner. My analytical mindset, coupled with strong business acumen, allows me to collaborate with cross-functional teams to identify key performance indicators, optimize business processes, and drive sustainable growth.</h3>
 
-<!--
-**iamsobahan/iamsobahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsobahan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsobahan" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsobahan" alt="iamsobahan" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://twitter.com/iamsobahan" target="blank"><img src="https://img.shields.io/twitter/follow/iamsobahan?logo=twitter&style=for-the-badge" alt="iamsobahan" /></a> </p>
+
+- 🔭 I’m currently working on [Super Store Sales Dashboard](https://github.com/iamsobahan/Sales_dashboard)
+
+- 🌱 I’m currently learning **Machine Learning, Statistics,**
+
+- 👨‍💻 All of my projects are available at [www.iamsobahan.com](www.iamsobahan.com)
+
+- 📝 I regularly write articles on [www.iamsobahan.com](www.iamsobahan.com)
+
+- 💬 Ask me about **Microsoft Excel, Power Bi, SQL, Python , Pandas, Numpy, Matplotlib, Plotly, Django, Django Rest framework, Postgresql**
+
+- 📫 How to reach me **iamsobahan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TMzOS1ofxPkK42y7Qn4EIa766Bs4OcH8/view](https://drive.google.com/file/d/1TMzOS1ofxPkK42y7Qn4EIa766Bs4OcH8/view)
+
+- ⚡ Fun fact **I Think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamsobahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsobahan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsobahan&show_icons=true&locale=en&layout=compact" alt="iamsobahan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsobahan&show_icons=true&locale=en" alt="iamsobahan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsobahan&" alt="iamsobahan" /></p>

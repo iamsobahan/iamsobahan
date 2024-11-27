@@ -1,15 +1,7 @@
-[![MasterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)](www.iamsobahan.com)
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQEZqYVYWh5NWw/article-cover_image-shrink_720_1280/0/1682060285558?e=2147483647&v=beta&t=r2clYRrThngfjntFc3vwFNfDCY7BIFq6oo-jd9fKqRA)](www.iamsobahan.com)
 <h1 align="left">Hi 👋, I'm Md Sobahan Mia</h1>
 <h3 align="left">I am a skilled Data Analyst and Business Intelligence (BI) Analyst with expertise in transforming raw data into actionable insights that support strategic decision-making. Proficient in SQL, database management, and advanced analytics tools, I deliver reliable, data-driven recommendations to enhance efficiency and planning. My experience includes creating interactive dashboards in Power BI and designing seamless web application integrations using Django and Django Rest Framework. With a strong analytical mindset and business acumen, I excel at identifying trends, optimizing processes, and defining KPIs. I am committed to presenting complex data in visually compelling ways to drive collaboration and sustainable growth.</h3>
-
-<img src="https://media.licdn.com/dms/image/D4E12AQEZqYVYWh5NWw/article-cover_image-shrink_720_1280/0/1682060285558?e=2147483647&v=beta&t=r2clYRrThngfjntFc3vwFNfDCY7BIFq6oo-jd9fKqRA" align="center" alt="demo" width="100%" height="300px">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsobahan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsobahan" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsobahan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsobahan" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsobahan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsobahan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsobahan" alt="iamsobahan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iamsobahan" target="blank"><img src="https://img.shields.io/twitter/follow/iamsobahan?logo=twitter&style=for-the-badge" alt="iamsobahan" /></a> </p>

@@ -3,7 +3,7 @@
 <h3 align="left">I am a skilled Data Analyst and Business Intelligence (BI) Analyst with expertise in transforming raw data into actionable insights that support strategic decision-making. Proficient in SQL, database management, and advanced analytics tools, I deliver reliable, data-driven recommendations to enhance efficiency and planning. My experience includes creating interactive dashboards in Power BI and designing seamless web application integrations using Django and Django Rest Framework. With a strong analytical mindset and business acumen, I excel at identifying trends, optimizing processes, and defining KPIs. I am committed to presenting complex data in visually compelling ways to drive collaboration and sustainable growth.</h3>
 
 
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+<img src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="880" height="360" alt="dem"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsobahan&label=Profile%20views&color=0e75b6&style=flat" alt="iamsobahan" /> </p>
 
